@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="26d97078-60f2-43a8-b3d6-f7569c0dffc7" name="adminer local dev" url="http://localhost/adminerdev">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/nginx/www/adminerdev" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
